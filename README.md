@@ -23,7 +23,7 @@ In this exercise, we will explore Azure subscriptions and the costing structures
 - <b>An Azure administrator with proper privileges (such as the global administrator) can discover information about a particular subscription by navigating to the Subscriptions pane on the Azure portal. From here, you can select an active subscription and view different overviews on each. This will also give you a birds-eye view of the current costs incurred for resources in Azure for that specific Subscription.
 <img src="https://imgur.com/2GOq77x.png" height="80%" width="80%">  
   
-- <b>From here, an administrator can also view all accounts that have been associated to the subscription by visiting the Access Control (IAM) pane on the navigation blade. Specific roles can be allocated to these accounts, depending on what the account will be used for.
+- <b>From here, an administrator can also view all accounts that have been associated to the subscription by visiting the Access Control or  (Blade) pane on the navigation blade. Specific roles can be allocated to these accounts, depending on what the account will be used for.
 In each user’s profile, activity is logged. This can be used for security purposes and verify when users have logged in and which activities these users have performed
 </b>
 <img src="https://imgur.com/o4s2s6Y.png" height="80%" width="80%"/>  
